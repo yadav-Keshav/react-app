@@ -1,0 +1,17 @@
+.album{
+    /* border: 2px solid red; */
+    display: flex;
+    width: 40%;
+    margin: auto;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+.album p{
+    width: 700px;
+}
+.album a{
+    padding: 5px;
+    text-decoration: none;
+    border: 1px solid red;
+    color: red;
+}
